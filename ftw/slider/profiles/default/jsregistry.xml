@@ -2,7 +2,7 @@
 <object name="portal_javascripts">
 
 
-  <javascript id="++resource++ftw.slider/slick.min.js"
+  <javascript id="++resource++ftw.slider/slick.js"
               enabled="True"
               />
   <javascript id="++resource++ftw.slider/slider.js"
